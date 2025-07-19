@@ -23,7 +23,7 @@ The dataset includes information like:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
 - Jupyter Notebook
 - Statistical Testing (t-test)
