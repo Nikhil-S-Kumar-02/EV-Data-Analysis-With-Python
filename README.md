@@ -52,7 +52,7 @@ The dataset includes information like:
 
 ---
 
-## 📌 Author
+## Author
 **Nikhil S Kumar**  
 Aspiring Data Analyst | Skilled in Python, SQL, Excel, Power BI, Tableau  
 [LinkedIn](https://linkedin.com/in/nikhilskumar2703) | [GitHub](https://github.com/Nikhil-S-Kumar-02)
