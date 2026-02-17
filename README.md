@@ -1,6 +1,6 @@
 # EV Data Analysis Using Python
 
-This project analyzes electric vehicle (EV) data using Python to generate insights, perform hypothesis testing, and build a recommendation system.
+This project was done for educational and demonstrative purposes and analyses electric vehicle (EV) data using Python to generate insights, perform hypothesis testing, and build a recommendation system.
 
 ## Objective
 The goal was to:
@@ -51,5 +51,5 @@ The dataset includes information like:
 
 
 ---
-
+> This project was done for educational and demonstrative purposes.
 
